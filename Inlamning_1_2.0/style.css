@@ -1,0 +1,12 @@
+.button {
+    background-image: linear-gradient(360deg, rgb(1, 88, 1), rgb(33, 148, 1));
+    padding: 15px;
+    color: white;
+    border-radius: 45%;
+    outline: 2px;
+    align-self: left;
+  }
+
+.greetingtxt {
+    text-align: center;
+}
